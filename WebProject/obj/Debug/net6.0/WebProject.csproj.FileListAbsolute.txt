@@ -1,0 +1,522 @@
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\appsettings.Development.json
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\appsettings.json
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\WebProject.staticwebassets.runtime.json
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\WebProject.exe
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\WebProject.deps.json
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\WebProject.runtimeconfig.json
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\WebProject.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\WebProject.pdb
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfoInputs.cache
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfo.cs
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CoreCompileInputs.cache
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\WebProject.RazorAssemblyInfo.cache
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\WebProject.RazorAssemblyInfo.cs
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.WebProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebProject.props
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebProject.props
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebProject.props
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\scopedcss\bundle\WebProject.styles.css
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\scopedcss\projectbundle\WebProject.bundle.scp.css
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\WebProject.dll
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\refint\WebProject.dll
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\WebProject.genruntimeconfig.cache
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\ref\WebProject.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Backend\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CopyComplete
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Azure.Core.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Azure.Identity.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Humanizer.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\System.CodeDom.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\System.Text.Json.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Backend\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\appsettings.json
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\WebProject.staticwebassets.runtime.json
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\WebProject.exe
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\WebProject.deps.json
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\WebProject.runtimeconfig.json
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\WebProject.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\WebProject.pdb
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfoInputs.cache
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfo.cs
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\WebProject.RazorAssemblyInfo.cache
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\WebProject.RazorAssemblyInfo.cs
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.WebProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebProject.props
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebProject.props
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebProject.props
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\scopedcss\bundle\WebProject.styles.css
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\scopedcss\projectbundle\WebProject.bundle.scp.css
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CopyComplete
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\WebProject.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\refint\WebProject.dll
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\WebProject.genruntimeconfig.cache
+C:\Users\hamza\OneDrive\Desktop\WebProject\WebProject\obj\Debug\net6.0\ref\WebProject.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\appsettings.json
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\WebProject.staticwebassets.runtime.json
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\WebProject.exe
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\WebProject.deps.json
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\WebProject.runtimeconfig.json
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\WebProject.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\WebProject.pdb
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfoInputs.cache
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfo.cs
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\WebProject.RazorAssemblyInfo.cache
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\WebProject.RazorAssemblyInfo.cs
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.WebProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebProject.props
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebProject.props
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebProject.props
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\scopedcss\bundle\WebProject.styles.css
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\scopedcss\projectbundle\WebProject.bundle.scp.css
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CopyComplete
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\WebProject.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\refint\WebProject.dll
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\WebProject.genruntimeconfig.cache
+C:\Users\hamza\OneDrive\Desktop\New folder\WebProject\WebProject\obj\Debug\net6.0\ref\WebProject.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\appsettings.json
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\WebProject.staticwebassets.runtime.json
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\WebProject.exe
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\WebProject.deps.json
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\WebProject.runtimeconfig.json
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\WebProject.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\WebProject.pdb
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfoInputs.cache
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfo.cs
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.RazorAssemblyInfo.cache
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.RazorAssemblyInfo.cs
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.WebProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebProject.props
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebProject.props
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebProject.props
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\scopedcss\bundle\WebProject.styles.css
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\scopedcss\projectbundle\WebProject.bundle.scp.css
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CopyComplete
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\refint\WebProject.dll
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.genruntimeconfig.cache
+C:\Users\hamza\OneDrive\Desktop\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\ref\WebProject.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\appsettings.Development.json
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\appsettings.json
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\WebProject.staticwebassets.runtime.json
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\WebProject.exe
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\WebProject.deps.json
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\WebProject.runtimeconfig.json
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\WebProject.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\WebProject.pdb
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Azure.Core.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Azure.Identity.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Humanizer.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.CodeDom.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Text.Json.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfoInputs.cache
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfo.cs
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CoreCompileInputs.cache
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.RazorAssemblyInfo.cache
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.RazorAssemblyInfo.cs
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.WebProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebProject.props
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebProject.props
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebProject.props
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\scopedcss\bundle\WebProject.styles.css
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\scopedcss\projectbundle\WebProject.bundle.scp.css
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CopyComplete
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\refint\WebProject.dll
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\WebProject.genruntimeconfig.cache
+D:\Web Project\FCB WEB HAMZA\WebProject\WebProject\obj\Debug\net6.0\ref\WebProject.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\appsettings.Development.json
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\appsettings.json
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\WebProject.staticwebassets.runtime.json
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\WebProject.exe
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\WebProject.deps.json
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\WebProject.runtimeconfig.json
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\WebProject.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\WebProject.pdb
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Azure.Core.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Azure.Identity.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Humanizer.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\System.CodeDom.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\System.Text.Json.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Web Project\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfoInputs.cache
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfo.cs
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CoreCompileInputs.cache
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\WebProject.RazorAssemblyInfo.cache
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\WebProject.RazorAssemblyInfo.cs
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.WebProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebProject.props
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebProject.props
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebProject.props
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\scopedcss\bundle\WebProject.styles.css
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\scopedcss\projectbundle\WebProject.bundle.scp.css
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CopyComplete
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\WebProject.dll
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\refint\WebProject.dll
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\WebProject.genruntimeconfig.cache
+D:\Web Project\WebProject\WebProject\obj\Debug\net6.0\ref\WebProject.dll

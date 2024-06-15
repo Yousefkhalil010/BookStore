@@ -1,0 +1,67 @@
+.cointener {
+    background: url('../books/pictures/pictue background.webp');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    padding-left: 120px;
+    margin: 0!important;
+    display: flex;
+    align-items: center;
+}
+.one {
+    width: 400px;
+    height: 450px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h2 {
+    font-size: 2em;
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+.two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+label, .four, .five {
+    color: black;
+    font-size: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+table {
+    height: 250px;
+    text-align: center;
+}
+.kinklin {
+    color: red;
+}
+.linklin:hover {
+    color: gray;
+    text-decoration: underline;
+}
+.five {
+    width: 150px;
+    height: 30px;
+    color: black;
+    background-color: gray;
+    border-radius: 20px;
+}
+input {
+    border-radius: 10px;
+    width: 250px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+}

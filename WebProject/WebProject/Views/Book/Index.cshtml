@@ -1,0 +1,39 @@
+﻿@model List<BookModel>
+@{
+    ViewData["Title"] = "View Books";
+}
+<style>
+    .h5 {
+        border-radius: 25px;
+        text-decoration: underline;
+        color: black;
+        ;
+    }
+    td, th {
+        text-align: center;
+    }
+</style>
+<table class="table table-bordered table-striped">
+    <tr>
+        <th> Book ID </th>
+        <th> Book Title </th>
+        <th> Book Description </th>
+        <th> Book Author </th>
+        <th> Book Genre </th>
+        <th> Delete the Book </th>
+    </tr>
+    @foreach (BookModel b in Model)
+    {
+        <tr>
+            <td>@b.ID</td>
+            <td>@b.Title</td>
+            <td>@b.Description</td>
+            <td>@b.Author.Name</td>
+            <td>@b.Genre.Name</td>
+            <td><a asp-controller="Admin" asp-action="Delete" asp-route-id="@b.ID"> Delete </a></td>
+        </tr>
+    }
+    <tr>
+        <td colspan="6"><a asp-controller="Admin" asp-action="Index" class="h5"> Back to the Admin Page </a></td>
+    </tr>
+</table>

@@ -1,0 +1,39 @@
+﻿@model AuthorModel
+@{
+    ViewData["Title"] = "Add Admin";
+}
+<style>
+    .h5 {
+        border-radius: 25px;
+        text-decoration: underline;
+        color: black;
+        ;
+    }
+    td, th {
+        text-align: center;
+    }
+</style>
+<div class="con">
+    <div class="one">
+        <h2>  </h2>
+        <div class="two">
+            <form method="post">
+                <table class="table table-bordered table-striped">
+                    <tr>
+                        <td colspan="2"><h3> Add Author </h3></td>
+                    </tr>
+                    <tr>
+                        <th><label class="three" asp-for="Name"></label></th>
+                        <td><input type="text" asp-for="Name" placeholder="Author Name"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><button type="submit"> Add Admin </button></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><a class="h5" asp-controller="Admin" asp-action="Index"> Back to the Admin Page </a></td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,57 @@
+body {
+    display: flex;
+    justify-content: left;
+    padding-left: 120px;
+    align-items: center;
+    min-height: 100vh;
+    background: url(../books/pictures/pictue\ background.webp);
+    background-size: cover;
+    background-position: center;
+}
+.one {
+    width: 400px;
+    height: 450px;
+    background: transparent;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+    background-color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    margin-top: 70px;
+    font-size: 2em;
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+.two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+label, .three {
+    font-size: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+table {
+    height: 300px;
+    text-align: center;
+}
+.three {
+    width: 150px;
+    height: 30px;
+    color: black;
+    background-color: gray;
+    border-radius: 20px;
+}
+input {
+    border-radius: 10px;
+    width: 250px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+}

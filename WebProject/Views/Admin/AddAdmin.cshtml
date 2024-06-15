@@ -1,0 +1,45 @@
+﻿@model AdminModel
+@{
+    ViewData["Title"] = "Add Admin";
+}
+<style>
+    .h5 {
+        border-radius: 25px;
+        text-decoration: underline;
+        color: black;;
+    }
+    td {
+        text-align: center;
+    }
+</style>
+<div>
+    <div>
+        <div class="two">
+            <form asp-controller="Admin" asp-action="AddAdmin" method="post">
+                <table class="table table-bordered table-striped">
+                    <tr>
+                        <td colspan="2"><h3> Add Admin </h3></td>
+                    </tr>
+                    <tr>
+                        <th><label asp-for="Name"></label></th>
+                        <td><input type="text" asp-for="Name" placeholder="Admin Name"></td>
+                    </tr>
+                    <tr>
+                        <th><label asp-for="Email"> </label></th>
+                        <td><input type="email" asp-for="Email" placeholder="Admin Email"></td>
+                    </tr>
+                    <tr>
+                        <th><label asp-for="Password"></label></th>
+                        <td><input type="password" asp-for="Password" placeholder="Write a Password"/></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><button type="submit"> Add Admin </button></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><a class="h5" asp-controller="Admin" asp-action="Index"> Back to the Admin Page </a></td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,36 @@
+﻿@model AdminModel
+@{
+    ViewData["Title"] = "Admin Detail";
+}
+<style>
+    .h5 {
+        border-radius: 25px;
+        text-decoration: underline;
+        color: black;
+        ;
+    }
+
+    td, th {
+        text-align: center;
+    }
+</style>
+<table class="table table-bordered table-striped">
+    <tr>
+        <td colspan="2" class="wel"><h3> Welcome @Model.Name </h3></td>
+    </tr>
+    <tr>
+        <th> ID </th>
+        <td> @Model.ID </td>
+    </tr>
+    <tr>
+        <th> Email </th>
+        <td> @Model.Email </td>
+    </tr>
+    <tr>
+        <th> Password </th>
+        <td> @Model.Password </td>
+    </tr>
+    <tr>
+        <td colspan="2"><a class="h5" asp-controller="Admin" asp-action="Index"> Back to the Admin Page </a></td>
+    </tr>
+</table>

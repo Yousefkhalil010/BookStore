@@ -1,0 +1,88 @@
+﻿@{
+    ViewData["Title"] = "Admin Page";
+}
+<style>
+    .cointener {
+        background: url('../books/pictures/pictue background.webp');
+        width: 100%;
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+        padding-left: 120px;
+        margin: 0 !important;
+        display: flex;
+        align-items: center;
+    }
+    .two {
+        width: 400px;
+        height: 620px;
+        background: transparent;
+        border: 2px solid rgba(255, 255, 255, 0.1);
+        border-radius: 20px;
+        backdrop-filter: blur(20px);
+        background-color: whitesmoke;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    tr {
+        height: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .yousf {
+        padding-left: 20px;
+    }
+    .hhhhh {
+        padding: 0;
+        text-decoration: none;
+        background-color: gray;
+        border: 20px gray solid;
+        color: black;
+        border-radius: 20px;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .hhhhh: hover {
+        text-decoration: underline;
+        color: red;
+    }
+    h2 {
+        font-size: 2em;
+        color: black;
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-decoration: underline;
+    }
+</style>
+<div class="cointener">
+    <div class="two">
+        <table>
+            <tr>
+                <td><h2>Admin Page</h2></td>
+            </tr>
+            <tr>
+                <td class="yousf"><a class="hhhhh" asp-controller="Admin" asp-action="Detail"> View Admin Details </a></td>
+            </tr>
+            <tr>
+                <td class="yousf"><a class="hhhhh" asp-controller="Book" asp-action="Index"> View Books List </a></td>
+            </tr>
+            <tr>
+                <td class="yousf"><a class="hhhhh" asp-controller="Admin" asp-action="ChangePassword"> Change Password </a></td>
+            </tr>
+            <tr>
+                <td class="yousf"><a class="hhhhh" asp-controller="Admin" asp-action="AddAuthor"> Add Author </a></td>
+            </tr>
+            <tr>
+                <td class="yousf"><a class="hhhhh" asp-controller="Admin" asp-action="AddAdmin"> Add Admin </a></td>
+            </tr>
+            <tr>
+                <td class="yousf"><a class="hhhhh" asp-controller="Admin" asp-action="Add"> Add Book </a></td>
+            </tr>
+            <tr>
+                <td class="yousf"><a class="hhhhh" asp-controller="Admin" asp-action="Logout"> Logout </a></td>
+            </tr>
+        </table>
+    </div>
+</div>

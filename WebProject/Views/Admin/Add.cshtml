@@ -1,0 +1,66 @@
+﻿@model BookModel
+@{
+    ViewData["Title"] = "Add Book";
+}
+<style>
+    .h5 {
+        border-radius: 25px;
+        text-decoration: underline;
+        color: black;
+        ;
+    }
+    td, th {
+        text-align: center;
+    }
+</style>
+<div class="con">
+    <div class="one">
+        <div class="two">
+            <form asp-controller="Admin" asp-action="Add" method="post">
+                <table class="table table-bordered table-striped">
+                    <tr>
+                        <td colspan="2"><h3> Add Book </h3></td>
+                    </tr>
+                    <tr>
+                        <th><label asp-for="Title"></label></th>
+                        <td><input type="text" asp-for="Title" placeholder="Title of the Book"></td>
+                    </tr>
+                    <tr>
+                        <th><label asp-for="AuthorID"> </label></th>
+                        <td><input type="number" asp-for="AuthorID" placeholder="Author ID"></td>
+                    </tr>
+                    <tr>
+                        <th><label asp-for="Description"></label></th>
+                        <td><textarea asp-for="Description" cols="30" rows="10" placeholder="Description"></textarea></td>
+                    </tr>
+                    <tr>
+                        <th><label asp-for="GenreID"> Genre Type </label></th>
+                        <td>
+                            <select asp-for="GenreID">
+                                <option> Select the Genre Book </option>
+                                @foreach (var h in ViewBag.Name)
+                                {
+                                    <option value="@h.GenreID">@h.Name</option>
+                                }
+                            </select>
+                        </td> 
+                    </tr>
+                    <tr>
+                        <th><label asp-for="BookPath"></label></th>
+                        <td><input type="file" asp-for="BookPath" /></td>
+                    </tr>
+                    <tr>
+                        <th><label asp-for="ImagePath"></label></th>
+                        <td><input type="file" asp-for="ImagePath" /></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><button type="submit"> Add Book </button></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><a class="h5" asp-controller="Admin" asp-action="Index"> Back to the Admin Page </a></td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </div>
+</div>

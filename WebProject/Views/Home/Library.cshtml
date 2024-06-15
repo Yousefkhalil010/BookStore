@@ -1,0 +1,51 @@
+﻿@model List<BookModel>
+@{
+    ViewData["Title"] = "Library";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Library </title>
+    <link rel="icon" href="~/books/pictures/book store.icon">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="~/CSS/library.css">
+</head>
+<body>
+    <br>
+    <div class="nine">
+        <form asp-action="Search" asp-controller="Home" formmethod="get" >
+            <input type="text" placeholder="Search of book name" class="seven" name="searchitem">
+            <button class="eight" type="submit"> Search </button>
+        </form>
+    </div>
+    <br />
+    @if(Model != null)
+    @foreach(var item in Model)
+        {
+            <div class="container">
+                <div class="left-column">
+                    <img src="~/books/pictures/@item.ImagePath" alt="Photo" width="400px" height="400px">
+                </div>
+                <div class="right-column">
+                    <iframe src="~/books/@item.BookPath" alt="Photo" width="400px" height="400px"></iframe>
+                </div>
+            </div>
+            <br>
+            <div class="container">
+                <div class="left-column">
+                    <div> @item.Description </div>
+                    <div>
+                        @if (item.Author != null)
+                        {
+                            <p> The author of the book is <u> @item.Author.Name </u></p>
+                        }
+                    </div>
+                    <br>
+                    <a class="download-link" download href="~/books/@item.BookPath" target="_blank"> Download </a>
+                </div>
+            </div>            
+        }
+</body>
+</html>

@@ -1,0 +1,16 @@
+﻿@model List<GenreModel>
+@{
+}
+<table class="table table-bordered table-striped">
+    <tr>
+        <th> Genre ID </th>
+        <th> Genre Type </th>
+    </tr>
+    @foreach (GenreModel g in Model)
+    {
+        <tr>
+            <td> @g.GenreID </td>
+            <td> @g.Name </td>
+        </tr>
+    }
+</table>

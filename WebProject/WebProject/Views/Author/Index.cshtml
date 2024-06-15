@@ -1,0 +1,16 @@
+﻿@model List<AuthorModel>
+@{
+}
+<table class="table table-bordered table-striped">
+    <tr>
+        <th> Author ID </th>
+        <th> Author Name </th>
+    </tr>
+    @foreach (AuthorModel a in Model)
+    {
+        <tr>
+            <td> @a.AuthorID </td>
+            <td> @a.Name </td>
+        </tr>
+    }
+</table>

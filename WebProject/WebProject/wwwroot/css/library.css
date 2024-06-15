@@ -1,0 +1,75 @@
+.download-link {
+    padding: 0;
+    text-decoration: none;
+    background-color: gray;
+    border: 20px gray solid;
+    color: wheat;
+    border-radius: 20px;
+}
+
+.download-link :hover {
+    text-decoration: underline;
+    color: red;
+}
+
+img {
+    border-radius: 35px;
+    border: 2px black solid;
+}
+
+.list {
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 auto;
+    gap: 1em;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.one {
+    margin: 0 auto;
+    text-align: center;
+    width: 25%;
+    color: white;
+    background-color: gray;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 20px;
+}
+
+.left-column {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+
+.seven {
+    width: 300px;
+    height: 30px;
+    border: black solid 2px;
+    text-align: center;
+}
+
+.eight {
+    width: 60px;
+    height: 30px;
+    border: black solid 2px;
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+
+iframe {
+    border-radius: 35px;
+}

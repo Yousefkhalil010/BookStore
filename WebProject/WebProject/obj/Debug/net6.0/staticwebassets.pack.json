@@ -1,0 +1,445 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebProject.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\2000-leagues-under-the-sea.pdf",
+      "PackagePath": "staticwebassets\\books\\2000-leagues-under-the-sea.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\Beginning App development with flutter.pdf",
+      "PackagePath": "staticwebassets\\books\\Beginning App development with flutter.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\Book_Lovers_by_Emily_Henry.pdf",
+      "PackagePath": "staticwebassets\\books\\Book_Lovers_by_Emily_Henry.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\Data Base.pdf",
+      "PackagePath": "staticwebassets\\books\\Data Base.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\Digital Design.pdf",
+      "PackagePath": "staticwebassets\\books\\Digital Design.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\Electronics.pdf",
+      "PackagePath": "staticwebassets\\books\\Electronics.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\Happy Place (Emily Henry) (Books-Here).pdf",
+      "PackagePath": "staticwebassets\\books\\Happy Place (Emily Henry) (Books-Here).pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\PDFORALL.COM-Ugly Love by Colleen Hoover.pdf",
+      "PackagePath": "staticwebassets\\books\\PDFORALL.COM-Ugly Love by Colleen Hoover.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\PIC Microcontroller and Embedded Systems.pdf",
+      "PackagePath": "staticwebassets\\books\\PIC Microcontroller and Embedded Systems.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\Reminders of Him (Colleen Hoover) (books-here.com).pdf",
+      "PackagePath": "staticwebassets\\books\\Reminders of Him (Colleen Hoover) (books-here.com).pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\Twisted-Love-Ebook.pdf",
+      "PackagePath": "staticwebassets\\books\\Twisted-Love-Ebook.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\Verity-By-Colleen-Hoover.pdf",
+      "PackagePath": "staticwebassets\\books\\Verity-By-Colleen-Hoover.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\adventures-of-huckleberry-finn.pdf",
+      "PackagePath": "staticwebassets\\books\\adventures-of-huckleberry-finn.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\bronze-magic.pdf",
+      "PackagePath": "staticwebassets\\books\\bronze-magic.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\fire-water.pdf",
+      "PackagePath": "staticwebassets\\books\\fire-water.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\in the heart of the sea.pdf",
+      "PackagePath": "staticwebassets\\books\\in the heart of the sea.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\induction.pdf",
+      "PackagePath": "staticwebassets\\books\\induction.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\microprocessorsandinterfacing-d-151020182302-lva1-app6892.pdf",
+      "PackagePath": "staticwebassets\\books\\microprocessorsandinterfacing-d-151020182302-lva1-app6892.pdf"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\2000-leagues-under-the-sea.jpeg",
+      "PackagePath": "staticwebassets\\books\\pictures\\2000-leagues-under-the-sea.jpeg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\adventures-of-huckleberry-finn.jfif",
+      "PackagePath": "staticwebassets\\books\\pictures\\adventures-of-huckleberry-finn.jfif"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\book lovers.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\book lovers.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\book store.icon",
+      "PackagePath": "staticwebassets\\books\\pictures\\book store.icon"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\bronze-magic.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\bronze-magic.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\brown background.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\brown background.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\data base.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\data base.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\digital.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\digital.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\electronics.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\electronics.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\embdedd.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\embdedd.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\fire-water.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\fire-water.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\flutter.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\flutter.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\happy place.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\happy place.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\in the heart of the sea.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\in the heart of the sea.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\induction.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\induction.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\microprocessor.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\microprocessor.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\pictue background.webp",
+      "PackagePath": "staticwebassets\\books\\pictures\\pictue background.webp"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\reminders-of-him.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\reminders-of-him.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\twisted-love.jpeg",
+      "PackagePath": "staticwebassets\\books\\pictures\\twisted-love.jpeg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\ugly love.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\ugly love.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\books\\pictures\\verity.jpg",
+      "PackagePath": "staticwebassets\\books\\pictures\\verity.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\css\\About.css",
+      "PackagePath": "staticwebassets\\css\\About.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\css\\Contact us.css",
+      "PackagePath": "staticwebassets\\css\\Contact us.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\css\\home page.css",
+      "PackagePath": "staticwebassets\\css\\home page.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\css\\library.css",
+      "PackagePath": "staticwebassets\\css\\library.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\css\\signup.css",
+      "PackagePath": "staticwebassets\\css\\signup.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebProject\\WebProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebProject.props",
+      "PackagePath": "build\\WebProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebProject.props",
+      "PackagePath": "buildMultiTargeting\\WebProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebProject.props",
+      "PackagePath": "buildTransitive\\WebProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
